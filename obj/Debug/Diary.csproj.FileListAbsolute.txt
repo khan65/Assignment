@@ -1,0 +1,15 @@
+C:\Users\Anamul\source\repos\Diary\Diary\bin\Debug\Diary.exe.config
+C:\Users\Anamul\source\repos\Diary\Diary\bin\Debug\Diary.exe
+C:\Users\Anamul\source\repos\Diary\Diary\bin\Debug\Diary.pdb
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.csprojAssemblyReference.cache
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.Form1.resources
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.cache
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.csproj.CoreCompileInputs.cache
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.exe
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.pdb
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.Form2.resources
+C:\Users\Anamul\source\repos\Diary\Diary\bin\Debug\Database1.mdf
+C:\Users\Anamul\source\repos\Diary\Diary\bin\Debug\Database1_log.ldf
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.Form3.resources
+C:\Users\Anamul\source\repos\Diary\Diary\obj\Debug\Diary.Form4.resources
